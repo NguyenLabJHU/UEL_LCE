@@ -1,7 +1,7 @@
 # LCE User Element (UEL) for Abaqus
 
 A user element (UEL) implementation of a liquid crystal elastomer (LCE) model for Abaqus.  
-This code provides a finite element framework to simulate the time-dependent viscoelastic response of LCE structures.
+This code provides a finite element framework to simulate the time-dependent viscoelastic response of LCEs.
 
 ---
 
