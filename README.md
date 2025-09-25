@@ -6,13 +6,19 @@ This code provides a finite element framework to simulate the time-dependent vis
 ---
 
 ## Overview
-This repository contains the UEL subroutine and supporting files for simulating LCEs within Abaqus.
+This repository contains the UEL subroutine and supporting files for simulating liquid crystal elastomers (LCEs) within Abaqus.
 
 The implementation is based on the nonlinear viscoelasticity theory developed in:
 
 > Wang, Zheliang, et al. *"A nonlinear viscoelasticity theory for nematic liquid crystal elastomers."*  
 > Journal of the Mechanics and Physics of Solids 163 (2022): 104829.  
-> https://doi.org/10.1016/j.jmps.2022.104829
+> https://doi.org/10.1016/j.jmps.2022.104829  
+
+An application of this UEL within finite element optimization can be found in:
+
+> Xu, Tingting, Thao D. Nguyen, and James K. Guest. *"Computational optimization of director patterns in liquid crystal elastomers."*  
+> Journal of the Mechanics and Physics of Solids (2025): 106369.  
+> https://doi.org/10.1016/j.jmps.2025.106369
 
 ---
 
